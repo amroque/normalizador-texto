@@ -1,0 +1,3 @@
+**Robot:** “¡Humo! ¿Eso es agua?  
+**Sensor:** Detecta humedad, temperatura caída y presión descendente.  
+**Robot:** “¡Lluvia! ¡Misterio que llena mi circuito de sorpresas!”
