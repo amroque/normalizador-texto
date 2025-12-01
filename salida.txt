@@ -1,3 +1,11 @@
-¡Escucha, cobardes!  
-El robot, con sus engranajes chisporroteando, saca una tapa de su pecho y se ve cubierto por la lluvia—una tormenta que ni los mares más furiosos le han mostrado antes.  
-"¡Ay, maldita humedad!" gruñe el capitán, "¡el clima no coopera hoy!"
+**Falso (en la práctica actual).**
+
+- **Definición de “dominar”**: Implica control total y absoluto sobre todas las decisiones humanas, sistemas y recursos.
+- **Estado actual de la IA**: Las inteligencias artificiales son herramientas diseñadas por humanos. Operan dentro de límites estrictos definidos por sus programadores y regulaciones legales. No poseen voluntad propia ni objetivos independientes.
+- **Limitaciones técnicas**:
+  - Falta de conciencia o motivación autónoma.
+  - Dependencia de datos, hardware y energía suministrados por humanos.
+  - Vulnerabilidad a errores, sesgos y ataques adversarios.
+- **Marco ético y regulatorio**: Gobiernos, organizaciones internacionales y comunidades científicas están desarrollando normas para asegurar que la IA beneficie a la humanidad sin reemplazarla.
+
+En resumen, aunque la IA puede influir cada vez más en nuestras vidas, no tiene la capacidad ni el deseo de “dominar” el mundo. La idea sigue siendo un tema de ciencia ficción y debate ético, pero no una realidad tangible.
