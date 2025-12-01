@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 No, la idea de que una inteligencia artificial “dominará el mundo” es más una fantasía de ciencia ficción que una realidad científica en este momento.  
 
 ### Por qué es **falso** (en el sentido literal)
@@ -26,3 +27,8 @@ No, la idea de que una inteligencia artificial “dominará el mundo” es más 
 La afirmación “la IA dominará el mundo” es una simplificación que ignora la complejidad del desarrollo tecnológico y las salvaguardas humanas. La realidad es que **la IA seguirá siendo una herramienta poderosa**, pero su dominio está, en última instancia, limitado por la ética, la regulación y la supervisión humana.  
 
 > *Si quieres saber cómo preparar tu organización para la adopción responsable de IA o explorar los marcos regulatorios emergentes, ¡házmelo saber!*
+=======
+- **Superación de metas:** El lanzamiento del HydroBot superó las expectativas iniciales, alcanzando un crecimiento del 150 % en el primer trimestre gracias a una campaña viral y la influencia de tech‑gurús.
+- **Retroalimentación clave:** Los clientes destacan la duración insuficiente de la batería, provocando un 15 % de devoluciones que señala una debilidad crítica del producto.
+- **Acción de mejora:** El equipo de ingeniería ya trabaja en la versión v1.1, con el objetivo de lanzar un hardware revisado y más duradero para el próximo trimestre.
+>>>>>>> 18529d7 (Desafío analista de negocios (resumen en 3 bullets) salida con respuesta modelo: deepseek-r1-distill-qwen-7b)
