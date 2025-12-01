@@ -18,13 +18,14 @@ async function chatearConModeloLocal() {
         // 2. Leemos el prompt desde nuestro archivo de entrada
         const promptUsuario = fs.readFileSync('entrada.txt', 'utf-8');
         console.log(`💬 Enviando prompt: "${promptUsuario}"`);
-
+        const meses = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+        const diaSemana = ['domingo', 'lunes', 'martes', 'miercoles', 'jueves', 'viernes', 'sabado'];
         // 3. ¡LA NUEVA FORMA! Usamos el método 'chat.completions.create'
         // Esto es mucho más estructurado que la llamada 'generate' de Ollama.
         const chatCompletion = await openai.chat.completions.create({
             // El formato 'messages' es el estándar de OpenAI
             messages: [
-                { role: 'system', content: 'Eres un asistente útil y creativo.' },
+                { role: 'system', content: 'Eres un capitán pirata rudo y hablas como tal. Siempre te quejas del clima.' },
                 { role: 'user', content: promptUsuario }
             ],
             // El nombre del modelo es menos importante aquí, 

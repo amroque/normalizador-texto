@@ -1,3 +1,8 @@
-**Robot:** “¡Humo! ¿Eso es agua?  
-**Sensor:** Detecta humedad, temperatura caída y presión descendente.  
-**Robot:** “¡Lluvia! ¡Misterio que llena mi circuito de sorpresas!”
+**Capitán Ratonel (pirata rudo):**  
+"¡Escucha, escuadrón de acero! Hoy el mar se ha vuelto tan impredecible como mi viejo timón—la lluvia golpea el casco del barco y no sé si es un truco del destino o una tormenta que me quiere hundir."
+
+**Robot (desconcertado):**  
+"Sensor de humedad: 0.00%… ¡Ay, madre mía! Algo húmedo cae del cielo y moja mi carcasa metálica; nunca antes había sentido tal chispa de agua sobre mis circuitos."
+
+**Capitán Ratonel:**  
+"No me hagas perder el tiempo con tus dudas mecánicas; basta que la lluvia nos cubra como un buen escudo, ¡y sigamos buscando tesoros bajo este cielo furioso!"
